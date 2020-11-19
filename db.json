@@ -1,0 +1,454 @@
+{
+  "users": [
+    {
+      "email": "qweqweqwe@mail.ru",
+      "password": "$2a$10$tE3bE3fUpdhhxU5T4w/bh.exX8eW1BAOXdPQt3uVqtTJ4.78bMkiS",
+      "name": "asdasd",
+      "about": "Статичный текст о себе",
+      "id": 1
+    }
+  ],
+  "filters": {
+    "categories": [
+      {
+        "name": "Русские",
+        "code": "rus"
+      },
+      {
+        "name": "Эксклюзив",
+        "code": "lux"
+      },
+      {
+        "name": "Новинки",
+        "code": "new"
+      }
+    ],
+    "types": [
+      {
+        "name": "Фрукты",
+        "code": "fruit"
+      },
+      {
+        "name": "Овощи",
+        "code": "vegetables"
+      },
+      {
+        "name": "Ягоды",
+        "code": "berries"
+      }
+    ],
+    "sorts": [
+      {
+        "name": "По цене",
+        "code": "price"
+      },
+      {
+        "name": "По рейтингу",
+        "code": "rate"
+      }
+    ]
+  },
+  "orders": [],
+  "items": [
+    {
+      "id": 1,
+      "price": 126,
+      "rate": 4,
+      "descr": "Очень классный апельсин, спасибо всем за внимание",
+      "name": "Апельсин",
+      "category": "lux",
+      "type": "fruit",
+      "image": "U1iYwZ8Dx7k"
+    },
+    {
+      "id": 2,
+      "price": 1600,
+      "rate": 5,
+      "descr": "Очень классный авакадо, спасибо всем за внимание",
+      "name": "Авакадо",
+      "category": "new",
+      "type": "fruit",
+      "image": "9aOswReDKPo"
+    },
+    {
+      "id": 3,
+      "price": 200,
+      "rate": 1,
+      "descr": "Очень классное яблоко, спасибо всем за внимание",
+      "name": "Яблоко",
+      "category": "rus",
+      "type": "fruit",
+      "image": "MardkT836BU"
+    },
+    {
+      "id": 4,
+      "price": 500,
+      "rate": 3,
+      "descr": "Очень классное брокли, спасибо всем за внимание",
+      "name": "Брокли",
+      "category": "rus",
+      "type": "vegetables",
+      "image": "Gwak7T9evEk"
+    },
+    {
+      "id": 5,
+      "price": 100,
+      "rate": 2,
+      "descr": "Очень классное томаты, спасибо всем за внимание",
+      "name": "Томаты",
+      "category": "new",
+      "type": "vegetables",
+      "image": "EPwuZxdketc"
+    },
+    {
+      "id": 6,
+      "price": 100,
+      "rate": 2,
+      "descr": "Очень классное картошка, спасибо всем за внимание",
+      "name": "Картошка",
+      "category": "lux",
+      "type": "vegetables",
+      "image": "B0s3Xndk6tw"
+    },
+    {
+      "id": 7,
+      "price": 22892,
+      "rate": 5,
+      "descr": "Очень классное черника, спасибо всем за внимание",
+      "name": "Черника",
+      "category": "rus",
+      "type": "berries",
+      "image": "4IAp_N7xu-k"
+    },
+    {
+      "id": 8,
+      "price": 2892,
+      "rate": 2,
+      "descr": "Очень классное клубника, спасибо всем за внимание",
+      "name": "Клубника",
+      "category": "lux",
+      "type": "berries",
+      "image": "V9g1kwNsxwc"
+    },
+    {
+      "id": 11,
+      "price": 126,
+      "rate": 4,
+      "descr": "Очень классный апельсин, спасибо всем за внимание",
+      "name": "Апельсин",
+      "category": "lux",
+      "type": "fruit",
+      "image": "U1iYwZ8Dx7k"
+    },
+    {
+      "id": 12,
+      "price": 1600,
+      "rate": 5,
+      "descr": "Очень классный авакадо, спасибо всем за внимание",
+      "name": "Авакадо",
+      "category": "new",
+      "type": "fruit",
+      "image": "9aOswReDKPo"
+    },
+    {
+      "id": 9,
+      "price": 2892,
+      "rate": 2,
+      "descr": "Очень классное малина, спасибо всем за внимание",
+      "name": "Малина",
+      "category": "new",
+      "type": "berries",
+      "image": "XGrTJnkgAVY"
+    },
+    {
+      "id": 13,
+      "price": 200,
+      "rate": 1,
+      "descr": "Очень классное яблоко, спасибо всем за внимание",
+      "name": "Яблоко",
+      "category": "rus",
+      "type": "fruit",
+      "image": "MardkT836BU"
+    },
+    {
+      "id": 16,
+      "price": 100,
+      "rate": 2,
+      "descr": "Очень классное картошка, спасибо всем за внимание",
+      "name": "Картошка",
+      "category": "lux",
+      "type": "vegetables",
+      "image": "B0s3Xndk6tw"
+    },
+    {
+      "id": 17,
+      "price": 22892,
+      "rate": 5,
+      "descr": "Очень классное черника, спасибо всем за внимание",
+      "name": "Черника",
+      "category": "rus",
+      "type": "berries",
+      "image": "4IAp_N7xu-k"
+    },
+    {
+      "id": 14,
+      "price": 500,
+      "rate": 3,
+      "descr": "Очень классное брокли, спасибо всем за внимание",
+      "name": "Брокли",
+      "category": "rus",
+      "type": "vegetables",
+      "image": "Gwak7T9evEk"
+    },
+    {
+      "id": 15,
+      "price": 100,
+      "rate": 2,
+      "descr": "Очень классное томаты, спасибо всем за внимание",
+      "name": "Томаты",
+      "category": "new",
+      "type": "vegetables",
+      "image": "EPwuZxdketc"
+    },
+    {
+      "id": 18,
+      "price": 2892,
+      "rate": 2,
+      "descr": "Очень классное клубника, спасибо всем за внимание",
+      "name": "Клубника",
+      "category": "lux",
+      "type": "berries",
+      "image": "V9g1kwNsxwc"
+    },
+    {
+      "id": 19,
+      "price": 2892,
+      "rate": 2,
+      "descr": "Очень классное малина, спасибо всем за внимание",
+      "name": "Малина",
+      "category": "new",
+      "type": "berries",
+      "image": "XGrTJnkgAVY"
+    },
+    {
+      "id": 10,
+      "price": 2892,
+      "rate": 2,
+      "descr": "Очень классное ежевика, спасибо всем за внимание",
+      "name": "Ежевика",
+      "category": "new",
+      "type": "berries",
+      "image": "5NFAjVE3gpc"
+    },
+    {
+      "id": 21,
+      "price": 126,
+      "rate": 4,
+      "descr": "Очень классный апельсин, спасибо всем за внимание",
+      "name": "Апельсин",
+      "category": "lux",
+      "type": "fruit",
+      "image": "U1iYwZ8Dx7k"
+    },
+    {
+      "id": 22,
+      "price": 1600,
+      "rate": 5,
+      "descr": "Очень классный авакадо, спасибо всем за внимание",
+      "name": "Авакадо",
+      "category": "new",
+      "type": "fruit",
+      "image": "9aOswReDKPo"
+    },
+    {
+      "id": 27,
+      "price": 22892,
+      "rate": 5,
+      "descr": "Очень классное черника, спасибо всем за внимание",
+      "name": "Черника",
+      "category": "rus",
+      "type": "berries",
+      "image": "4IAp_N7xu-k"
+    },
+    {
+      "id": 28,
+      "price": 2892,
+      "rate": 2,
+      "descr": "Очень классное клубника, спасибо всем за внимание",
+      "name": "Клубника",
+      "category": "lux",
+      "type": "berries",
+      "image": "V9g1kwNsxwc"
+    },
+    {
+      "id": 29,
+      "price": 2892,
+      "rate": 2,
+      "descr": "Очень классное малина, спасибо всем за внимание",
+      "name": "Малина",
+      "category": "new",
+      "type": "berries",
+      "image": "XGrTJnkgAVY"
+    },
+    {
+      "id": 30,
+      "price": 2892,
+      "rate": 2,
+      "descr": "Очень классное ежевика, спасибо всем за внимание",
+      "name": "Ежевика",
+      "category": "new",
+      "type": "berries",
+      "image": "5NFAjVE3gpc"
+    },
+    {
+      "id": 31,
+      "price": 126,
+      "rate": 4,
+      "descr": "Очень классный апельсин, спасибо всем за внимание",
+      "name": "Апельсин",
+      "category": "lux",
+      "type": "fruit",
+      "image": "U1iYwZ8Dx7k"
+    },
+    {
+      "id": 32,
+      "price": 1600,
+      "rate": 5,
+      "descr": "Очень классный авакадо, спасибо всем за внимание",
+      "name": "Авакадо",
+      "category": "new",
+      "type": "fruit",
+      "image": "9aOswReDKPo"
+    },
+    {
+      "id": 23,
+      "price": 200,
+      "rate": 1,
+      "descr": "Очень классное яблоко, спасибо всем за внимание",
+      "name": "Яблоко",
+      "category": "rus",
+      "type": "fruit",
+      "image": "MardkT836BU"
+    },
+    {
+      "id": 24,
+      "price": 500,
+      "rate": 3,
+      "descr": "Очень классное брокли, спасибо всем за внимание",
+      "name": "Брокли",
+      "category": "rus",
+      "type": "vegetables",
+      "image": "Gwak7T9evEk"
+    },
+    {
+      "id": 25,
+      "price": 100,
+      "rate": 2,
+      "descr": "Очень классное томаты, спасибо всем за внимание",
+      "name": "Томаты",
+      "category": "new",
+      "type": "vegetables",
+      "image": "EPwuZxdketc"
+    },
+    {
+      "id": 26,
+      "price": 100,
+      "rate": 2,
+      "descr": "Очень классное картошка, спасибо всем за внимание",
+      "name": "Картошка",
+      "category": "lux",
+      "type": "vegetables",
+      "image": "B0s3Xndk6tw"
+    },
+    {
+      "id": 33,
+      "price": 200,
+      "rate": 1,
+      "descr": "Очень классное яблоко, спасибо всем за внимание",
+      "name": "Яблоко",
+      "category": "rus",
+      "type": "fruit",
+      "image": "MardkT836BU"
+    },
+    {
+      "id": 34,
+      "price": 500,
+      "rate": 3,
+      "descr": "Очень классное брокли, спасибо всем за внимание",
+      "name": "Брокли",
+      "category": "rus",
+      "type": "vegetables",
+      "image": "Gwak7T9evEk"
+    },
+    {
+      "id": 35,
+      "price": 100,
+      "rate": 2,
+      "descr": "Очень классное томаты, спасибо всем за внимание",
+      "name": "Томаты",
+      "category": "new",
+      "type": "vegetables",
+      "image": "EPwuZxdketc"
+    },
+    {
+      "id": 36,
+      "price": 100,
+      "rate": 2,
+      "descr": "Очень классное картошка, спасибо всем за внимание",
+      "name": "Картошка",
+      "category": "lux",
+      "type": "vegetables",
+      "image": "B0s3Xndk6tw"
+    },
+    {
+      "id": 20,
+      "price": 2892,
+      "rate": 2,
+      "descr": "Очень классное ежевика, спасибо всем за внимание",
+      "name": "Ежевика",
+      "category": "new",
+      "type": "berries",
+      "image": "5NFAjVE3gpc"
+    },
+    {
+      "id": 37,
+      "price": 22892,
+      "rate": 5,
+      "descr": "Очень классное черника, спасибо всем за внимание",
+      "name": "Черника",
+      "category": "rus",
+      "type": "berries",
+      "image": "4IAp_N7xu-k"
+    },
+    {
+      "id": 38,
+      "price": 2892,
+      "rate": 2,
+      "descr": "Очень классное клубника, спасибо всем за внимание",
+      "name": "Клубника",
+      "category": "lux",
+      "type": "berries",
+      "image": "V9g1kwNsxwc"
+    },
+    {
+      "id": 39,
+      "price": 2892,
+      "rate": 2,
+      "descr": "Очень классное малина, спасибо всем за внимание",
+      "name": "Малина",
+      "category": "new",
+      "type": "berries",
+      "image": "XGrTJnkgAVY"
+    },
+    {
+      "id": 40,
+      "price": 2892,
+      "rate": 2,
+      "descr": "Очень классное ежевика, спасибо всем за внимание",
+      "name": "Ежевика",
+      "category": "new",
+      "type": "berries",
+      "image": "5NFAjVE3gpc"
+    }
+  ]
+}
