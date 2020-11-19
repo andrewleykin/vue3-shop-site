@@ -1,4 +1,9 @@
-# test-proj
+# Интернет магазин фруктов
+
+Vue3 Vuex4 Vue-router4  
+UI - primevue3  
+Server mock - json-server  
+@vuelidate  
 
 ## Project setup
 ```
