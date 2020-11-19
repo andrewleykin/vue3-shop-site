@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d207d33"],{a1d1:function(e,c,n){"use strict";n.r(c);var t=n("f2bf"),a={class:"about-page"},o=Object(t["createVNode"])("h1",null,"О магазине",-1),r=Object(t["createVNode"])("p",null,"Текст о магазине",-1);function u(e,c,n,u,d,b){return Object(t["openBlock"])(),Object(t["createBlock"])("div",a,[o,r])}var d={name:"AboutPage"};d.render=u;c["default"]=d}}]);
+//# sourceMappingURL=chunk-2d207d33.8014593d.js.map

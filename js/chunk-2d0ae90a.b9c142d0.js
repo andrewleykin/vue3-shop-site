@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ae90a"],{"0b35":function(e,c,r){"use strict";r.r(c);var a=r("f2bf"),t={class:"orders-page"},d=Object(a["createVNode"])("h1",null,"История заказов",-1),o=Object(a["createVNode"])("div",{class:"order-list"},[Object(a["createVNode"])("div",{class:"order-item"}," Заказ № 1 Сумма 123456 ")],-1);function n(e,c,r,n,s,i){return Object(a["openBlock"])(),Object(a["createBlock"])("div",t,[d,o])}var s={name:"OrdersPage"};s.render=n;c["default"]=s}}]);
+//# sourceMappingURL=chunk-2d0ae90a.b9c142d0.js.map
